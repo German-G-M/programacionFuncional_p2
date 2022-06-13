@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "alp5YduBOc9vNwsRCejfM+7TEXYnRbsg6UFI3nVSPrsP2vkWoXiNUA1LowlSGUJErtp/EPV612cZgp+X8bOwfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\germa\\OneDrive\\Escritorio\\informatica 1-2022\\INF-319 PROGRAMACIÓN FUNCIONAL\\2parcial\\punto1\\F-Sharp_fibo_estruct_y_recurs\\F-Sharp_fibo_estruct_y_recurs.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\germa\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
