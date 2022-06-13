@@ -1,0 +1,7 @@
+C:\Users\germa\OneDrive\Escritorio\informatica 1-2022\INF-319 PROGRAMACIÓN FUNCIONAL\2parcial\punto4\web_fibo\bin\web_fibo.dll.config
+C:\Users\germa\OneDrive\Escritorio\informatica 1-2022\INF-319 PROGRAMACIÓN FUNCIONAL\2parcial\punto4\web_fibo\bin\web_fibo.dll
+C:\Users\germa\OneDrive\Escritorio\informatica 1-2022\INF-319 PROGRAMACIÓN FUNCIONAL\2parcial\punto4\web_fibo\bin\web_fibo.pdb
+C:\Users\germa\OneDrive\Escritorio\informatica 1-2022\INF-319 PROGRAMACIÓN FUNCIONAL\2parcial\punto4\web_fibo\obj\Debug\web_fibo.csproj.AssemblyReference.cache
+C:\Users\germa\OneDrive\Escritorio\informatica 1-2022\INF-319 PROGRAMACIÓN FUNCIONAL\2parcial\punto4\web_fibo\obj\Debug\web_fibo.csproj.CoreCompileInputs.cache
+C:\Users\germa\OneDrive\Escritorio\informatica 1-2022\INF-319 PROGRAMACIÓN FUNCIONAL\2parcial\punto4\web_fibo\obj\Debug\web_fibo.dll
+C:\Users\germa\OneDrive\Escritorio\informatica 1-2022\INF-319 PROGRAMACIÓN FUNCIONAL\2parcial\punto4\web_fibo\obj\Debug\web_fibo.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "web_fibo", "web_fibo.csproj", "{A64D0FED-C157-4492-B7F1-6EE9944B15AA}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ClassLibrary1", "..\ClassLibrary1\ClassLibrary1.fsproj", "{392A287D-F877-4743-9521-3A71D36B7207}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A64D0FED-C157-4492-B7F1-6EE9944B15AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A64D0FED-C157-4492-B7F1-6EE9944B15AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A64D0FED-C157-4492-B7F1-6EE9944B15AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A64D0FED-C157-4492-B7F1-6EE9944B15AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{392A287D-F877-4743-9521-3A71D36B7207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{392A287D-F877-4743-9521-3A71D36B7207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{392A287D-F877-4743-9521-3A71D36B7207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{392A287D-F877-4743-9521-3A71D36B7207}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E989B6B-0166-4041-AF39-CF13BCA8D242}
+	EndGlobalSection
+EndGlobal

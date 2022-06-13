@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xX/0CJs2PU/3UYE4lwUeOY++GmiiMIw6OqTZjj5gTxB9Hb19jznIQnwlmhauzHsBCa2Ddeh+AfyU5v4TKIRnHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\germa\\OneDrive\\Escritorio\\informatica 1-2022\\INF-319 PROGRAMACIÓN FUNCIONAL\\2parcial\\punto4\\ClassLibrary1\\ClassLibrary1.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\germa\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
